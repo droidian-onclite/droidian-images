@@ -12,4 +12,5 @@ xiaomi_onclite:
   packages:
     - adaptation-droidian-onclite
     - adaptation-onclite-configs
+    - qtwayland5
     - yad
