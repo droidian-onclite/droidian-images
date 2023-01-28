@@ -228,4 +228,4 @@ jobs:
           file: droidian-ubports-installer/*.zip
           file_glob: true
           overwrite: true
-          prerelease: false
+          prerelease: true

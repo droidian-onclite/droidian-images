@@ -8,7 +8,7 @@ Droidian is a GNU/Linux distribution based on top of Mobian, a Debian-based dist
 # Default password: 1234
 
 ## Installation
- * Download the latest build here: https://github.com/droidian-onclite/droidian-images/releases
+ * Download the latest build here: https://github.com/droidian-onclite/droidian-images/releases/tag/nightly
  * Unpack the zip file
  * Boot to fastboot
  * on Linux run flash_all.sh script:
