@@ -12,5 +12,10 @@ xiaomi_onclite:
   packages:
     - adaptation-droidian-onclite
     - adaptation-onclite-configs
+    - linux-bootimage-4.9.214-xiaomi-onclite
+    - linux-bootimage-xiaomi-onclite
+    - linux-headers-4.9.214-xiaomi-onclite
+    - linux-headers-xiaomi-onclite
+    - linux-image-4.9.214-xiaomi-onclite
+    - linux-image-xiaomi-onclite
     - qtwayland5
-    - yad
