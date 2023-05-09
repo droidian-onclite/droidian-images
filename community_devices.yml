@@ -19,3 +19,22 @@ xiaomi_onclite:
     - linux-image-4.9.214-xiaomi-onclite
     - linux-image-xiaomi-onclite
     - qtwayland5
+
+xiaomi_onclite-cutie:
+  type: image
+  arch: arm64
+  edition: cutie
+  variant: phone
+  apilevel: 28
+  use_internal_repository: false
+
+  packages:
+    - adaptation-droidian-onclite
+    - adaptation-onclite-configs
+    - linux-bootimage-4.9.214-xiaomi-onclite
+    - linux-bootimage-xiaomi-onclite
+    - linux-headers-4.9.214-xiaomi-onclite
+    - linux-headers-xiaomi-onclite
+    - linux-image-4.9.214-xiaomi-onclite
+    - linux-image-xiaomi-onclite
+    - qtwayland5
